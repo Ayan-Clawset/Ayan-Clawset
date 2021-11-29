@@ -36,20 +36,27 @@ I am a versatilist Full Stack Web Developer. I love exploring new tech stack �
 
 
 ### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+<a href='https://github.com/NetraMarda/github-stats-transparent'>
   
-![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=Ayan-Clawset&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayan-Clawset&hide=TeX&layout=compact)
+![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=NetraMarda&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NetraMarda&hide=TeX&layout=compact)
 
 
 </a>
 
 <br>
+<br />
+
+ <a href="#"><img alt="Netra Marda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NetraMarda&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+ <br />
+ <br />
+
 
  ## ❤ Views and Followers
  <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-                <img src="https://komarev.com/ghpvc/?username=Ayan-Clawset">
+                <img src="https://komarev.com/ghpvc/?username=NetraMarda">
         </a>
-        <a href="https://github.com/Ayan-Clawset?tab=followers"><img
-                        src="https://img.shields.io/github/followers/Ayan-Clawset?label=Followers&style=social"
+        <a href="https://github.com/NetraMarda?tab=followers"><img
+                        src="https://img.shields.io/github/followers/NetraMarda?label=Followers&style=social"
                         alt="GitHub Badge"></a>
