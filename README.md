@@ -1,4 +1,4 @@
-<p align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/Ayan-Blufy"><img src="https://github.com/Ayan-Blufy/Gif_images/blob/master/JavaScript%20frameworks%20(2).gif" width="400px" style="max-width: 100%;"></a></p>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Netra Marda</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
