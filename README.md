@@ -2,6 +2,7 @@
 
 
 
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Netra Marda</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
@@ -10,7 +11,7 @@ I am a versatilist Full Stack Web Developer. I love exploring new tech stack ğŸ’
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://github.com/Ayan-Blufy/Gif_images/blob/master/Data%20points.gif" width="360px"/>
   
 ### ğŸ§ More About Me:
 
